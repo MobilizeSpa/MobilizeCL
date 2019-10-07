@@ -1,0 +1,24 @@
+[submodule "KonosCL/addons-konos"]
+	path = KonosCL/addons-konos
+	url = git@github.com:KonosCL/addons-konos.git
+	branch = 12.0
+
+[submodule "MobilizeSpa/payroll_analytic_account"]
+	path = MobilizeSpa/payroll_analytic_account
+	url = git@github.com:MobilizeSpa/payroll_analytic_account.git
+	branch = master
+
+[submodule "MobilizeSpa/l10n_cl_hr_payroll_account"]
+	path = MobilizeSpa/l10n_cl_hr_payroll_account
+	url = git@github.com:MobilizeSpa/l10n_cl_hr_payroll_account.git
+	branch = master
+
+[submodule "MobilizeSpa/l10n_cl_hr"]
+	path = MobilizeSpa/l10n_cl_hr
+	url = git@github.com:MobilizeSpa/l10n_cl_hr.git
+	branch = master
+
+[submodule "MobilizeSpa/hr_payroll_cancel"]
+	path = MobilizeSpa/hr_payroll_cancel
+	url = git@github.com:MobilizeSpa/hr_payroll_cancel.git
+	branch = master
